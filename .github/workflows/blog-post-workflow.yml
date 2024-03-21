@@ -1,19 +1,18 @@
-name: Latest blog post workflow
-on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-permissions:
-  contents: write # To write the generated contents to the readme
+name: Update events 
+on: 
+    watch: 
+    types: started 
+    schedule: 
+        - cron: '0 0 * * *' 
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://infinitesum.github.io/atom.xml"
+jobs: 
+    update-social: 
+        runs-on: ubuntu-latest 
+        steps: 
+        - name: Social Readme 
+        uses: zylele/social-readme@master 
+        with: 
+            blog_rss_link: https://infinitesum.github.io/atom.xml
+            blog_limit: 10 
+            douban_name: 75312645
+            douban_limit: 10
