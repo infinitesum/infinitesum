@@ -43,5 +43,14 @@ Here are some ideas to get you started:
 豆瓣:
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/35196946/' target='_blank'>在看三体 第一季</a> - 2024-03-21
+* <a href='http://movie.douban.com/subject/36081094/' target='_blank'>看过热辣滚烫</a> 🌟🌟🌟☆☆ 还行- 2024-02-12
+* <a href='http://movie.douban.com/subject/36538847/' target='_blank'>看过泰勒·斯威夫特：时代巡回演唱会</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-29
+* <a href='http://movie.douban.com/subject/35575567/' target='_blank'>想看沙丘2</a> - 2023-12-22
+* <a href='http://movie.douban.com/subject/34438298/' target='_blank'>看过饥饿游戏：鸣鸟与蛇之歌</a> 🌟🌟🌟🌟☆ 推荐- 2023-12-03
+* <a href='http://movie.douban.com/subject/35244032/' target='_blank'>看过洛基 第二季</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-04
+* <a href='http://movie.douban.com/subject/10604086/' target='_blank'>看过封神第一部：朝歌风云</a> 🌟🌟🌟🌟🌟 力荐- 2023-10-03
+* <a href='https://book.douban.com/subject/26278687/' target='_blank'>想读皮囊</a> - 2023-09-30
+* <a href='https://book.douban.com/subject/26305332/' target='_blank'>最近在读A Little Life</a> - 2023-09-07
+* <a href='http://movie.douban.com/subject/27089612/' target='_blank'>看过纽约的一个雨天</a> 🌟🌟🌟☆☆ 还行- 2023-06-24
 <!-- END_SECTION:douban -->
