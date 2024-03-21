@@ -2,6 +2,17 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Mansalva&duration=3000&pause=2000&color=9D81CB&center=true&vCenter=true&random=false&width=435&lines=You%E2%80%99re+being+watched." alt="Typing SVG" />
     </a>
+
+
+
+<!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="https://infinitesum.github.io"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/479603158"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=infinitesum&style=flat" alt="访问量统计" />
+  </div>
 </div>
 
 
@@ -10,9 +21,46 @@
 
 ![](https://komarev.com/ghpvc/?username=infinitesum&label=PROFILE+VIEWS&style=for-the-badge)
 
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-### Social 
-博客:
+<p>&emsp;&emsp;嗨，你好，我是 Summer。</p>
+<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;那些从一开始就认为，这个世界无法改变或者他改变不了这个世界的人，注定改变不了这个世界。</p>
+<p>&emsp;&emsp;<strong>Those who believe from the beginning that the world cannot be changed or that they cannot change the world are destined to be unable to change the world.</strong></p>
+
+### 🏢 Work Experience
+
+<img align="right" width="44" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
+
+- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
+
+  - 工作岗位：软件工程师
+  - 工作内容：创业
+
+<img align="right" width="44" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+
+- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
+
+  - 工作岗位：Web 前端开发工程师
+  - 工作内容：杂活
+
+<img align="right" width="44" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+
+- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+
+  - 工作岗位：Web 前端开发实习生
+  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+
+
+
+
+
+
+
+### 📃 Recent Blog
+<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+
 
 <!-- START_SECTION:blog -->
 * <a href='https://infinitesum.github.io/%E7%94%A8%20Python%20%E6%99%BA%E8%83%BD%E4%BF%AE%E6%94%B9%20PDF%20%E6%96%87%E4%BB%B6%E5%90%8D/' target='_blank'>用 Python 智能修改 PDF 文件名</a> - 2024-03-19
@@ -27,7 +75,10 @@
 * <a href='https://infinitesum.github.io/empirical/2-literature-reading/' target='_blank'>浅谈实证研究：第二期 文献阅读与文献回顾</a> - 2024-03-01
 <!-- END_SECTION:blog -->
 
-豆瓣:
+### 豆瓣:
+
+<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+
 
 <!-- START_SECTION:douban -->
 * <a href='http://movie.douban.com/subject/35196946/' target='_blank'>在看三体 第一季</a> - 2024-03-21
@@ -41,3 +92,24 @@
 * <a href='https://book.douban.com/subject/26305332/' target='_blank'>最近在读A Little Life</a> - 2023-09-07
 * <a href='http://movie.douban.com/subject/27089612/' target='_blank'>看过纽约的一个雨天</a> 🌟🌟🌟☆☆ 还行- 2023-06-24
 <!-- END_SECTION:douban -->
+
+
+<div align="center" >
+
+<!--  skill badge 技能徽章 -->
+
+
+![HTML5 Badge](https://img.shields.io/badge/Stata-E34F26?logo=stata&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+
+![Matlab Badge](https://img.shields.io/badge/MATLAB-FF6900?logo=matlab&logoColor=fff&style=for-the-badge)
+![Visual Studio Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![LaTex Badge](https://img.shields.io/badge/LaTex-5C2D91?logo=latex&logoColor=fff&style=for-the-badge)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=latex,matlab,python,git" /><br>
+
+<br>
+
+</div>
