@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/infinitesum?template=classic&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&rss=false&rss.source=https%3A%2F%2Finfinitesum.github.io%2Fatom.xml&rss.limit=5&config.timezone=Asia%2FShanghai)
+![Metrics](https://raw.githubusercontent.com/infinitesum/infinitesum/main/github-metrics.svg)
 
 ### Social 
 博客:
