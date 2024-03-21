@@ -7,19 +7,18 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://infinitesum.github.io"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/479603158"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://infinitesum.github.io"><img src="https://img.shields.io/badge/Website-博客-blue?&style=for-the-badge" /></a>&emsp;
+    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160?&style=for-the-badge" /></a>&emsp;
+    <a href="https://space.bilibili.com/479603158"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?&style=for-the-badge" /></a>&emsp;
+    <a href="mailto:xqxusummer@163.com"><img src="https://img.shields.io/badge/Mail-邮箱-07c160?&style=for-the-badge" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=infinitesum&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=infinitesum&style=for-the-badge" alt="访问量统计" />
   </div>
 </div>
 
 
 
 ### Hi there 👋
-
-![](https://komarev.com/ghpvc/?username=infinitesum&label=PROFILE+VIEWS&style=for-the-badge)
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
