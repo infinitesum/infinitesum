@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ### Social 
-<table> <tbody> <tr> <td valign="top" width="50%"> ### <a href="https://infinitesum.github.io/" target="_blank">Recent Blog</a> <!-- START_SECTION:blog -->
+<table> <tbody> <tr> <td valign="top" width="50%"> <a href="https://infinitesum.github.io/" target="_blank">Recent Blog</a> <!-- START_SECTION:blog -->
 * <a href='https://infinitesum.github.io/%E7%94%A8%20Python%20%E6%99%BA%E8%83%BD%E4%BF%AE%E6%94%B9%20PDF%20%E6%96%87%E4%BB%B6%E5%90%8D/' target='_blank'>用 Python 智能修改 PDF 文件名</a> - 2024-03-19
 * <a href='https://infinitesum.github.io/%E4%B8%80%E4%B8%AA%E7%AE%80%E6%98%93%E7%9A%84%E5%8A%A9%E6%95%99%E8%AF%BE%E8%AE%B0%E5%BD%95/' target='_blank'>一个简易的助教课记录</a> - 2024-03-18
 * <a href='https://infinitesum.github.io/S4-POI/' target='_blank'>Person of Interest S4 英语观影笔记</a> - 2024-03-15
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * <a href='https://infinitesum.github.io/empirical/4-descriptive-stats/' target='_blank'>浅谈实证研究：第四期 描述性统计</a> - 2024-03-01
 * <a href='https://infinitesum.github.io/empirical/3-literature-writing/' target='_blank'>浅谈实证研究：第三期 实证论文写作思路</a> - 2024-03-01
 * <a href='https://infinitesum.github.io/empirical/2-literature-reading/' target='_blank'>浅谈实证研究：第二期 文献阅读与文献回顾</a> - 2024-03-01
-<!-- END_SECTION:blog --> </td> <td valign="top" width="50%"> ### <a href="https://www.douban.com/people/75312645/" target="_blank">Douban</a> <!-- START_SECTION:douban -->
+<!-- END_SECTION:blog --> </td> <td valign="top" width="50%"> <a href="https://www.douban.com/people/75312645/" target="_blank">Douban</a> <!-- START_SECTION:douban -->
 * <a href='http://movie.douban.com/subject/36081094/' target='_blank'>看过热辣滚烫</a> 🌟🌟🌟☆☆ 还行- 2024-02-12
 * <a href='http://movie.douban.com/subject/36538847/' target='_blank'>看过泰勒·斯威夫特：时代巡回演唱会</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-29
 * <a href='http://movie.douban.com/subject/35575567/' target='_blank'>想看沙丘2</a> - 2023-12-22
