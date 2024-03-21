@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&weight=800&duration=2000&pause=2000&color=9983DD&center=true&vCenter=true&multiline=true&random=true&width=435&lines=You%E2%80%99re+being+watched." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mansalva&duration=3000&pause=2000&color=9D81CB&center=true&vCenter=true&random=false&width=435&lines=You%E2%80%99re+being+watched." alt="Typing SVG" /></a>
 
 ### Hi there 👋
 <!--
