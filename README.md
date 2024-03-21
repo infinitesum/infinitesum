@@ -17,10 +17,4 @@ Here are some ideas to get you started:
 -->
 
 ### Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [用 Python 智能修改 PDF 文件名](https://infinitesum.github.io/%E7%94%A8%20Python%20%E6%99%BA%E8%83%BD%E4%BF%AE%E6%94%B9%20PDF%20%E6%96%87%E4%BB%B6%E5%90%8D/)
-- [一个简易的助教课记录](https://infinitesum.github.io/%E4%B8%80%E4%B8%AA%E7%AE%80%E6%98%93%E7%9A%84%E5%8A%A9%E6%95%99%E8%AF%BE%E8%AE%B0%E5%BD%95/)
-- [Person of Interest S4 英语观影笔记](https://infinitesum.github.io/S4-POI/)
-- [【2024-3】文献速递](https://infinitesum.github.io/%E6%96%87%E7%8C%AE%E9%80%9F%E9%80%92-2024-3/)
-- [经济学顶刊论文研读：Mapping the Venture Capital and Private Equity Research](https://infinitesum.github.io/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%A1%B6%E5%88%8A%E8%AE%BA%E6%96%87%E7%A0%94%E8%AF%BB%EF%BC%9AMapping%20the%20Venture%20Capital%20and%20Private%20Equity%20Research/)
-<!-- BLOG-POST-LIST:END -->
+## Social <table> <tbody> <tr> <td valign="top" width="50%"> ### <a href="https://infinitesum.github.io/" target="_blank">Recent Blog</a> <!-- START_SECTION:blog --> <!-- END_SECTION:blog --> </td> <td valign="top" width="50%"> ### <a href="https://www.douban.com/people/75312645/" target="_blank">Douban</a> <!-- START_SECTION:douban --> <!-- END_SECTION:douban --> </td> </tr> </tbody> </table>
