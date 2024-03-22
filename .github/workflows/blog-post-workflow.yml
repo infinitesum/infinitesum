@@ -17,6 +17,6 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://infinitesum.github.io/atom.xml
-          blog_limit: 10 
+          blog_limit: 5
           douban_name: 75312645
-          douban_limit: 10
+          douban_limit: 5
