@@ -30,11 +30,11 @@
 
 
 <!-- START_SECTION:blog -->
+* <a href='https://infinitesum.github.io/Stellar%20%E4%B8%BB%E9%A2%98%E4%B8%AD%E6%B7%BB%E5%8A%A0%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95%20Widget/' target='_blank'>Stellar 主题中添加分类索引 Widget</a> - 2024-03-30
 * <a href='https://infinitesum.github.io/Warp-terminal/' target='_blank'>Mac 生产力软件+1：Warp 终端</a> - 2024-03-30
 * <a href='https://infinitesum.github.io/%E7%8E%B0%E4%BB%A3%E7%94%9F%E6%B4%BB%E7%9A%84%E4%BC%AA%E4%BA%8B%E4%BB%B6/' target='_blank'>现代生活的伪事件</a> - 2024-03-26
 * <a href='https://infinitesum.github.io/%E7%BD%91%E9%A3%9E%E7%89%88%E4%B8%89%E4%BD%93%203%20Body%20Problem/' target='_blank'>网飞三体上线第一时间赶来锐评</a> - 2024-03-22
 * <a href='https://infinitesum.github.io/%E7%94%A8%20Python%20%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%20PDF%20%E6%96%87%E4%BB%B6%E5%90%8D/' target='_blank'>用 Python 批量修改 PDF 文件名</a> - 2024-03-19
-* <a href='https://infinitesum.github.io/%E4%B8%80%E4%B8%AA%E7%AE%80%E6%98%93%E7%9A%84%E5%8A%A9%E6%95%99%E8%AF%BE%E8%AE%B0%E5%BD%95/' target='_blank'>一个简易的助教课记录</a> - 2024-03-18
 <!-- END_SECTION:blog -->
 
 ### 豆瓣:
