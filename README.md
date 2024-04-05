@@ -20,8 +20,6 @@
 
 ### Hi there 👋
 
-<img align="right" width="66" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-
 <p>&emsp;&emsp;嗨，你好，我是 Summer。</p>
 
 
