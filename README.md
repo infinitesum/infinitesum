@@ -28,7 +28,7 @@
 
 
 <!-- START_SECTION:blog -->
-* <a href='https://infinitesum.github.io/%E5%8F%88%E7%BB%99%E5%8D%9A%E5%AE%A2%E8%A3%85%E4%BF%AE%E5%95%A6/' target='_blank'></a> - 2024-04-09
+* <a href='https://infinitesum.github.io/24%20%E5%B9%B4%203%20%E6%9C%88%E5%B0%8F%E7%BB%93/' target='_blank'>24 年 3 月小结</a> - 2024-04-11
 * <a href='https://infinitesum.github.io/%E8%AE%B0%20LSE-SUFE%20Joint%20Conference/' target='_blank'>记 LSE-SUFE Joint Conference</a> - 2024-04-07
 * <a href='https://infinitesum.github.io/Stellar%20%E4%B8%BB%E9%A2%98%E4%B8%AD%E6%B7%BB%E5%8A%A0%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95%20Widget/' target='_blank'>Stellar 主题中添加分类索引 Widget</a> - 2024-03-30
 * <a href='https://infinitesum.github.io/Warp-terminal/' target='_blank'>Mac 生产力软件+1：Warp 终端</a> - 2024-03-30
