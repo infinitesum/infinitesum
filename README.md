@@ -28,11 +28,11 @@
 
 
 <!-- START_SECTION:blog -->
+* <a href='https://flyalready.cn/Stellar%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E8%A7%A3%E5%86%B3%E4%B8%8E%E4%B8%8A%E6%B8%B8fork%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%86%B2%E7%AA%81/' target='_blank'>Stellar 主题更新解决与上游 fork 项目的冲突</a> - 2024-04-28
 * <a href='https://flyalready.cn/Hexo%20Stellar%20%E4%B8%BB%E9%A2%98%E8%A3%85%E4%BF%AE%E7%AC%94%E8%AE%B0/' target='_blank'>Hexo Stellar 主题装修笔记</a> - 2024-04-16
 * <a href='https://flyalready.cn/24%20%E5%B9%B4%203%20%E6%9C%88%E5%B0%8F%E7%BB%93/' target='_blank'>24 年 3 月小结</a> - 2024-04-10
 * <a href='https://flyalready.cn/%E8%AE%B0%20LSE-SUFE%20Joint%20Conference/' target='_blank'>记 LSE-SUFE Joint Conference</a> - 2024-04-06
 * <a href='https://flyalready.cn/Stellar%20%E4%B8%BB%E9%A2%98%E4%B8%AD%E6%B7%BB%E5%8A%A0%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95%20Widget/' target='_blank'>Stellar 主题中添加分类索引 Widget</a> - 2024-03-30
-* <a href='https://flyalready.cn/Warp-terminal/' target='_blank'>Mac 生产力软件+1：Warp 终端</a> - 2024-03-29
 <!-- END_SECTION:blog -->
 
 ### 豆瓣:
