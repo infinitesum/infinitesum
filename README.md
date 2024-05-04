@@ -28,11 +28,11 @@
 
 
 <!-- START_SECTION:blog -->
+* <a href='https://flyalready.cn/%E5%A2%9E%E5%BC%BAStellar%E6%A0%87%E7%AD%BE%E7%BB%84%E4%BB%B6%E5%86%99%E4%BD%9C%E4%BD%93%E9%AA%8C/' target='_blank'>增强 Stellar 标签组件写作体验</a> - 2024-05-03
 * <a href='https://flyalready.cn/24%E5%B9%B44%E6%9C%88%E5%B0%8F%E7%BB%93/' target='_blank'>24 年 4 月小结 不被记录的时间会灰飞烟灭</a> - 2024-04-29
 * <a href='https://flyalready.cn/Stellar%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E8%A7%A3%E5%86%B3%E4%B8%8E%E4%B8%8A%E6%B8%B8fork%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%86%B2%E7%AA%81/' target='_blank'>Stellar 主题更新解决与上游 fork 项目的冲突</a> - 2024-04-28
 * <a href='https://flyalready.cn/Hexo%20Stellar%20%E4%B8%BB%E9%A2%98%E8%A3%85%E4%BF%AE%E7%AC%94%E8%AE%B0/' target='_blank'>Hexo Stellar 主题装修笔记</a> - 2024-04-16
 * <a href='https://flyalready.cn/24%20%E5%B9%B4%203%20%E6%9C%88%E5%B0%8F%E7%BB%93/' target='_blank'>24 年 3 月小结</a> - 2024-04-10
-* <a href='https://flyalready.cn/%E8%AE%B0%20LSE-SUFE%20Joint%20Conference/' target='_blank'>记 LSE-SUFE Joint Conference</a> - 2024-04-06
 <!-- END_SECTION:blog -->
 
 ### 豆瓣:
