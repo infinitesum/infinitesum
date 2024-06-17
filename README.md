@@ -28,11 +28,11 @@
 
 
 <!-- START_SECTION:blog -->
+* <a href='https://flyalready.cn/%E9%AB%98%E5%AE%8F2%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/' target='_blank'>高宏2期末复习笔记</a> - 2024-06-16
 * <a href='https://flyalready.cn/%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84%E5%8F%8C%E9%87%8D%E5%B7%AE%E5%88%86%E6%B3%95/' target='_blank'>回归模型中的双重差分法</a> - 2024-05-11
 * <a href='https://flyalready.cn/%E5%A2%9E%E5%BC%BAStellar%E6%A0%87%E7%AD%BE%E7%BB%84%E4%BB%B6%E5%86%99%E4%BD%9C%E4%BD%93%E9%AA%8C/' target='_blank'>增强 Stellar 标签组件写作体验</a> - 2024-05-03
 * <a href='https://flyalready.cn/24%E5%B9%B44%E6%9C%88%E5%B0%8F%E7%BB%93/' target='_blank'>24 年 4 月小结 不被记录的时间会灰飞烟灭</a> - 2024-04-29
 * <a href='https://flyalready.cn/Stellar%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E8%A7%A3%E5%86%B3%E4%B8%8E%E4%B8%8A%E6%B8%B8fork%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%86%B2%E7%AA%81/' target='_blank'>Stellar 主题更新解决与上游 fork 项目的冲突</a> - 2024-04-28
-* <a href='https://flyalready.cn/Hexo%20Stellar%20%E4%B8%BB%E9%A2%98%E8%A3%85%E4%BF%AE%E7%AC%94%E8%AE%B0/' target='_blank'>Hexo Stellar 主题装修笔记</a> - 2024-04-16
 <!-- END_SECTION:blog -->
 
 ### 豆瓣:
@@ -41,7 +41,7 @@
 
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35926862/' target='_blank'>在看黑袍纠察队 第四季</a> - 2024-06-14
+* <a href='http://movie.douban.com/subject/35926862/' target='_blank'>看过黑袍纠察队 第四季</a> 🌟🌟🌟☆☆ 还行- 2024-06-16
 * <a href='http://movie.douban.com/subject/35196946/' target='_blank'>看过三体 第一季</a> 🌟🌟🌟☆☆ 还行- 2024-03-22
 * <a href='http://movie.douban.com/subject/36081094/' target='_blank'>看过热辣滚烫</a> 🌟🌟☆☆☆ 较差- 2024-02-12
 * <a href='http://movie.douban.com/subject/36538847/' target='_blank'>看过泰勒·斯威夫特：时代巡回演唱会</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-29
