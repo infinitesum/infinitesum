@@ -20,11 +20,10 @@
 
 ### Hi there 👋
 
-<p>&emsp;&emsp;嗨，你好，我是 Summer。</p>
+<p>&emsp;&emsp;Hi, this is Summer. </p>
 
 
 ### 📃 Recent Blog
-<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 
 <!-- START_SECTION:blog -->
@@ -37,7 +36,7 @@
 
 ### 豆瓣:
 
-<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+<!-- <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" /> -->
 
 
 <!-- START_SECTION:douban -->
