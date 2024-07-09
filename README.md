@@ -54,17 +54,6 @@
 <!--  skill badge 技能徽章 -->
 
 
-![HTML5 Badge](https://img.shields.io/badge/Stata-E34F26?logo=stata&logoColor=fff&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
-![Matlab Badge](https://img.shields.io/badge/MATLAB-FF6900?logo=matlab&logoColor=fff&style=for-the-badge)
-![Visual Studio Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
-![LaTex Badge](https://img.shields.io/badge/LaTex-5C2D91?logo=latex&logoColor=fff&style=for-the-badge)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
-
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=latex,matlab,python,git" /><br>
-
-<br>
 
 </div>
