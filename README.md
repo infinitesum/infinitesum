@@ -27,11 +27,11 @@
 
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.flyalready.cn/one-meets-its-destiny-on-the-road-he-takes-to-avoid-it/' target='_blank'>我们在逃避命运的路上与之不期而遇</a> - 2024-08-05
 * <a href='https://www.flyalready.cn/go-to-it-and-good-luck/' target='_blank'>尽管去吧，祝你好运</a> - 2024-07-22
 * <a href='https://www.flyalready.cn/a-hitchhikers-day-in-beijing/' target='_blank'>七月初放假，北京，心情明朗</a> - 2024-07-09
 * <a href='https://www.flyalready.cn/%E9%AB%98%E8%AE%A12%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/' target='_blank'>高计2期末复习笔记</a> - 2024-06-17
 * <a href='https://www.flyalready.cn/%E9%AB%98%E5%AE%8F2%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/' target='_blank'>高宏2期末复习笔记</a> - 2024-06-16
-* <a href='https://www.flyalready.cn/%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84%E5%8F%8C%E9%87%8D%E5%B7%AE%E5%88%86%E6%B3%95/' target='_blank'>回归模型中的双重差分法</a> - 2024-05-11
 <!-- END_SECTION:blog -->
 
 ### 豆瓣:
