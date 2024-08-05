@@ -40,7 +40,11 @@
 
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/26816104/' target='_blank'>想看从21世纪安全撤离</a> - 2024-08-04
+* <a href='http://movie.douban.com/subject/35448539/' target='_blank'>想看奇美拉</a> - 2024-08-03
+* <a href='http://movie.douban.com/subject/35128081/' target='_blank'>在看辐射 第一季</a> 🌟🌟🌟🌟☆ 推荐- 2024-07-27
+* <a href='http://movie.douban.com/subject/35926862/' target='_blank'>看过黑袍纠察队 第四季</a> 🌟🌟🌟☆☆ 还行- 2024-06-16
+* <a href='http://movie.douban.com/subject/35196946/' target='_blank'>看过三体 第一季</a> 🌟🌟🌟☆☆ 还行- 2024-03-22
 <!-- END_SECTION:douban -->
 
 
